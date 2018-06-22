@@ -1,0 +1,26 @@
+{
+  "name": "think-station-tutoring",
+  "version": "0.0.1",
+  "description": "Scheduler for the think station tutoring service",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickallenjr/Think-Station-Tutoring.git"
+  },
+  "author": "Nicholas Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickallenjr/Think-Station-Tutoring/issues"
+  },
+  "homepage": "https://github.com/nickallenjr/Think-Station-Tutoring#readme",
+  "dependencies": {
+    "fullcalendar": "^3.9.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.12.0"
+  }
+}
